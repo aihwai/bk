@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>FM_TEST</title>
-    <link href="https://aihwaibk.github.io/bk/feed.xml" rel="self" />
-    <link href="https://aihwaibk.github.io/bk" />
+    <link href="https://aihwai.github.io/bk/feed.xml" rel="self" />
+    <link href="https://aihwai.github.io/bk" />
     <updated>2026-11-09T09:04:52+08:00</updated>
     <author>
         <name>MHLIN</name>
     </author>
-    <id>https://aihwaibk.github.io/bk</id>
+    <id>https://aihwai.github.io/bk</id>
 
     <entry>
         <title>838383</title>
         <author>
             <name>MHLIN</name>
         </author>
-        <link href="https://aihwaibk.github.io/bk/838383/index.html"/>
-        <id>https://aihwaibk.github.io/bk/838383/index.html</id>
+        <link href="https://aihwai.github.io/bk/838383/index.html"/>
+        <id>https://aihwai.github.io/bk/838383/index.html</id>
 
         <updated>2026-11-09T09:04:04+08:00</updated>
             <summary type="html">
@@ -34,8 +34,8 @@
         <author>
             <name>MHLIN</name>
         </author>
-        <link href="https://aihwaibk.github.io/bk/fmoffice/index.html"/>
-        <id>https://aihwaibk.github.io/bk/fmoffice/index.html</id>
+        <link href="https://aihwai.github.io/bk/fmoffice/index.html"/>
+        <id>https://aihwai.github.io/bk/fmoffice/index.html</id>
             <category term="2"/>
 
         <updated>2026-11-09T08:51:22+08:00</updated>

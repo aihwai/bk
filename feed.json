@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "FM_TEST",
     "description": "",
-    "home_page_url": "https://aihwaibk.github.io/bk",
-    "feed_url": "https://aihwaibk.github.io/bk/feed.json",
+    "home_page_url": "https://aihwai.github.io/bk",
+    "feed_url": "https://aihwai.github.io/bk/feed.json",
     "user_comment": "",
     "author": {
         "name": "MHLIN"
     },
     "items": [
         {
-            "id": "https://aihwaibk.github.io/bk/838383/index.html",
-            "url": "https://aihwaibk.github.io/bk/838383/index.html",
+            "id": "https://aihwai.github.io/bk/838383/index.html",
+            "url": "https://aihwai.github.io/bk/838383/index.html",
             "title": "838383",
             "summary": "8383",
             "content_html": "<p>8383</p>",
@@ -24,8 +24,8 @@
             "date_modified": "2026-11-09T09:04:04+08:00"
         },
         {
-            "id": "https://aihwaibk.github.io/bk/fmoffice/index.html",
-            "url": "https://aihwaibk.github.io/bk/fmoffice/index.html",
+            "id": "https://aihwai.github.io/bk/fmoffice/index.html",
+            "url": "https://aihwai.github.io/bk/fmoffice/index.html",
             "title": "FMOFFICE",
             "author": {
                 "name": "MHLIN"
